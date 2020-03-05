@@ -1,0 +1,66 @@
+body{
+	background-color: #F6F7EB;
+	text-align: center;
+}
+
+h1 {
+	color: #E94F37;
+	text-shadow: 4px 3px 0px #44BBA4;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 100px;
+	font-style: bold;
+	font-variant: small-caps;
+}
+
+table {
+    margin: 0 auto;
+}
+
+#formtext
+{
+	color: #3F88C5;
+	letter-spacing: 2px;
+	font-family: Tahoma, Charcoal, sans-serif;
+	font-size: 20px;
+}
+
+#radiotext
+{
+	color: #3F88C5;
+	letter-spacing: 2px;
+	font-family: Tahoma, Charcoal, sans-serif;
+	font-size: 14px;
+}
+
+
+#tabletext
+{
+	margin-left:auto; 
+    margin-right:auto;
+	color: #3F88C5;
+	letter-spacing: 2px;
+	font-family: Tahoma, Charcoal, sans-serif;
+	font-size: 14px;
+}
+
+#finaltext
+{
+	color: #383333;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: small-caps;
+	text-transform: lowercase;
+	font-size: 30px;
+}
+
+input[type=text]
+{
+	width: 175px;
+	height: 30px;
+	text-align: center;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
